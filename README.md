@@ -1,5 +1,7 @@
 # Embedded Coding Challenge
 
+short text add*
+
 Hi, we want to give you an impression what working with us means.  So we
 created a challenge, that is representative for the things we do and are
 passionate about.
